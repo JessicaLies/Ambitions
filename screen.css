@@ -70,6 +70,10 @@ h1 {
   padding-left: 1.200em; /* 5:6 ratio on baseline */
 }
 
+p {
+  padding-bottom: 2.88em; /* 25.92 * 2 / 18px */
+}
+
 h2 {
   font-size: 1.125em; /* 18px/16px = 1.125 */
   line-height: 1.4400000000000002em; /* 25.92px / 18px */
